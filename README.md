@@ -1,4 +1,4 @@
-# ccache-demo
+# azure-pipelines-ccache-demo
 
 This is a simple example of how to use [Ccache](https://ccache.dev/) within Azure Pipelines.
 
